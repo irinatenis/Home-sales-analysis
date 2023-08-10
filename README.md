@@ -10,3 +10,5 @@ Spark, SparkSQL
 - Cached the temporary table, ran a query, and comared the runtime to uncached runtime.
 - Partitioned by the "date_built" and ran the same query to compare the runtime.
 - Uncached the temporary table and verified it.
+
+  *I recieved support from an AskBCS Learning Assistant.*
