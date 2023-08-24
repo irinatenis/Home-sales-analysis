@@ -1,4 +1,4 @@
-# Home_Sales
+# Home sales analysis
 
 ### **Goal**
 To use Spark SQL to determine key metrics about home sales data.
